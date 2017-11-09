@@ -19,3 +19,8 @@ dotnet run
 ```
 
 ## Video 03
+
+Criar um novo projeto .NET Core 2.0 no Visual Studio 2017&nbsp;&nbsp;
+
+
+*File \ New \ Project \ ASP.NET Core Web Application*
