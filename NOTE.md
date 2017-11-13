@@ -34,6 +34,8 @@ IHostingEnvironment
 IServiceColletion
 IApplicationBuilder
 ILoggerFactory
+
+install-package Microsoft.Extensions.Configuration.UserSecrets
 ```
 
 - UserSecrets ASP.NET Core 1.0.1 e 1.1.0
@@ -78,3 +80,6 @@ ILoggerFactory
 
         }
 ```
+
+## Video 5
+
