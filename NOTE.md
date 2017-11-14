@@ -83,3 +83,9 @@ install-package Microsoft.Extensions.Configuration.UserSecrets
 
 ## Video 5
 
+- Não está funcionando esse comando no VS 2017
+
+
+```
+@tagHelperPrefix
+```
